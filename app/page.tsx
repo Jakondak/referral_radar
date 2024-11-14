@@ -62,8 +62,8 @@ export default function Component() {
       {/* Let's be honest Section */}
       <section className="bg-[#E8EF88] py-16 px-4">
         <div className="container mx-auto max-w-2xl">
-          <h2 className="text-2xl font-bold mb-4">Let's be honest.</h2>
-          <p className="text-xl mb-8">You're tired of this:</p>
+          <h2 className="text-2xl font-bold mb-4">Let&apos;s be honest.</h2>
+          <p className="text-xl mb-8">You&apos;re tired of this:</p>
           <div className="flex justify-center">
             <Image
               src="/cycle_illustration.png"
@@ -93,7 +93,7 @@ export default function Component() {
           </div>
           <div className="bg-white/10 p-4 rounded-lg">
             <p className="mb-4">
-              Referrals are one of the most reliable hiring methods, second only to internal transfers. When someone vouches for a candidate, there's a good chance the recommendation is trustworthy.
+              Referrals are one of the most reliable hiring methods, second only to internal transfers. When someone vouches for a candidate, there&apos;s a good chance the recommendation is trustworthy.
             </p>
           </div>
         </div>
@@ -122,7 +122,7 @@ export default function Component() {
                   BUY LIST
                 </Link>
               </Button>
-              <p className="text-sm text-center">(you'll get access by email)</p>
+              <p className="text-sm text-center">(you&apos;ll get access by email)</p>
             </CardFooter>
           </Card>
         </div>
