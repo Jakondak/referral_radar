@@ -1,16 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'media.licdn.com',
-        port: '',
-        pathname: '/**',
-      },
-    ],
-  },
   output: 'export',
+  images: {
+    unoptimized: true
+  },
+  basePath: '/referral_radar',
+  assetPrefix: '/referral_radar/',  // Add this line
+  trailingSlash: true,              // Add this line
 }
 
-module.exports = nextConfig 
+module.exports = nextConfig
