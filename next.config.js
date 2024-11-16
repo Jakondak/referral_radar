@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: '/referral_radar',
-  assetPrefix: '/referral_radar/',  // Add this line
+  basePath: 'referral_radar',
+  assetPrefix: 'referral_radar/',  // Add this line
   trailingSlash: true,              // Add this line
 }
 
