@@ -1,12 +1,12 @@
 {
-  "homepage": "https://jakondak.github.io/referral_radar",
+  "homepage": "https://jakondak.github.io/referral_radar/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "lint": "next lint"
