@@ -4,8 +4,6 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: '/referral_radar',
-  assetPrefix: '/referral_radar', // Remove trailing slash
   trailingSlash: true,
   webpack: (config) => {          // Add webpack config
     config.resolve.fallback = {
