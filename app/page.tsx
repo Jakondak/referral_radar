@@ -188,31 +188,31 @@ export default function Component() {
             <AccordionItem value="item-1" className="border-0">
               <AccordionTrigger className="font-bold">What does it mean for a referral list to be updatable?</AccordionTrigger>
               <AccordionContent>
-                Content for this FAQ item goes here.
+                It means we keep our referral list current, recognizing that people change jobs.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2" className="border-0">
               <AccordionTrigger className="font-bold">How frequently is the list refreshed?</AccordionTrigger>
               <AccordionContent>
-                Content for this FAQ item goes here.
+                We aim to update it within a month of any job changes.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-3" className="border-0">
               <AccordionTrigger className="font-bold">What if a referral no longer works at the listed company?</AccordionTrigger>
               <AccordionContent>
-                Content for this FAQ item goes here.
+                We aim to update it within a month of any job changes.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-4" className="border-0">
               <AccordionTrigger className="font-bold">If someone declines to refer you to their company, what should you do?</AccordionTrigger>
               <AccordionContent>
-                Content for this FAQ item goes here.
+                We aim to update it within a month of any job changes.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-5" className="border-0">
               <AccordionTrigger className="font-bold">How should you approach someone for a referral?</AccordionTrigger>
               <AccordionContent>
-                Content for this FAQ item goes here.
+                Introduce yourself, briefly share your experience, mention where you found their contact, and attach your CV in "CV_lastname_firstname" format.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
