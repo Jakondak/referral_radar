@@ -212,7 +212,7 @@ export default function Component() {
             <AccordionItem value="item-5" className="border-0">
               <AccordionTrigger className="font-bold">How should you approach someone for a referral?</AccordionTrigger>
               <AccordionContent>
-                Introduce yourself, briefly share your experience, mention where you found their contact, and attach your CV in "CV_lastname_firstname" format.
+                Introduce yourself, briefly share your experience, mention where you found their contact, and attach your CV in &quot;CV_lastname_firstname&quot; format.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
