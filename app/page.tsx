@@ -66,7 +66,7 @@ export default function Component() {
           <p className="text-xl mb-8">You&apos;re tired of this:</p>
           <div className="flex justify-center">
             <Image
-              src="/cycle_illustration.png"
+              src="./cycle_illustration.png"
               alt="Job application cycle illustration"
               width={400}
               height={300}
@@ -84,7 +84,7 @@ export default function Component() {
           <h3 className="text-2xl mb-6">Why does it help?</h3>
           <div className="mb-6">
             <Image
-              src="/best_contacts.png"
+              src="./best_contacts.png"
               alt="Best contacts illustration"
               width={600}
               height={400}
